@@ -17,7 +17,7 @@
         
   {block:Description}
         
-  <meta name="ion" content="{Metaion}" />
+  <meta name="description" content="{MetaDescription}" />
   
   {/block:Description}
         
