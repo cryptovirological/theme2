@@ -98,7 +98,7 @@ margin-bottom: 12px;
 body {
 background: {color:Background};
 background-image: url('{image:Background}');
-background-attachment:f fixed;
+background-attachment: fixed;
 background-repeat: repeat;
 {block:ifBackgroundCover}background-size: cover; {/block:ifBackgroundCover}
 color: {color:Text};
